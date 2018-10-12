@@ -1,4 +1,4 @@
 # Disaster-Management
-A repository for a project on Disaster Prediction and Manaagement in CodeFunDo++
+A repository for a project on Disaster Prediction and Management in CodeFunDo++
 
 Idea - Our project aims to predict the disasters along with the required number of resources to be alloted to the rescue in case the disaster actually happens. So, we plan to create a machine learning model taking various parameters for disaster prediction as well as some parameters like the economic conditions, population, area of the disaster prone region. All these parameters fed to the model will return the precautions which can be taken by the people residing in the area, steps which can be taken by the government to prevent much damage to property and life. We will be building the dataset for disaster prediction using official  sources such as https://www.data.gov/disasters/. The other relevant information of the area will be entered according to different areas and their previous history of disasters and help in terms of resources provided by different organisations. The model, after training, will give us all the information and precautions for the disaster.
